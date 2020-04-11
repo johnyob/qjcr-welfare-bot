@@ -1,0 +1,1 @@
+cogs = ["admin", "basic", "welfare"]
